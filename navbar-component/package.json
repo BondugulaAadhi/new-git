@@ -1,16 +1,24 @@
 {
   "name": "navbar-component",
   "version": "1.0.0",
+  "description": "A simple reusable NavBar component",
   "main": "src/NavBar.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "echo No build step is necessary"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BondugulaAadhi/new-git.git"
+  },
+  "keywords": [
+    "react",
+    "navbar",
+    "component"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
   "dependencies": {
-    "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
   }
 }
